@@ -1,0 +1,82 @@
+# 36 planning
+
+memes
+https://memegine.com/?q=
+
+remember word? how it sounds?
+chir.ag
+
+
+remove shit on pictures
+https://cleanup.pictures/
+
+ანატომია 3d
+https://www.innerbody.com/
+
+self destructive notes
+https://privnote.com/
+
+gameplay stats
+https://howlongtobeat.com/
+
+კონსპექტის გამკეთებელი
+https://quillbot.com/summarize
+
+----------------------------------
+ავტომატური კონსპექტის შემქმნელი - text minifier Georgian
+
+სტრუქტურა
+---------------------------
+	აბზაცი
+	keywords უნიკალური
+	აბზაცის დასკვნა
+---------------------------
+
+
+* pdf to txt
+* ტექსტი txt
+	- ზედმეტი სიმბოლოების მოშორება
+	- სარჩევების და .. რაღაცების მოჭრა
+	- კონკრეტული თემის ამოღება
+
+* სტრუქტურის აგება
+
+{1:[first_sentence,[keywords], last sentence], 2:[first_sentence,[keywords], last sentence]}
+
+წინადადებები
+	- აბზაცების ამოღება
+	- აბზაცის წინადადებებად დაშლა
+	- წინადადებების თარგმნა
+	- https://quillbot.com/summarize წამოღება
+	- უკან გადმოთარგმნა
+
+keywords
+	- უნიკალური სიტყვების მოპოვება
+	- თარგმნა და სიაში ჩასმა
+
+სტრუქტურაში ჩასმა
+	- {
+		1:[
+			first_sentence,
+			[keywords], 
+			last sentence
+			],
+
+		2:[
+			first_sentence,
+			[keywords], 
+			last sentence
+		  ],
+
+		3:[
+			first_sentence,
+			[keywords], 
+			last sentence
+		  ]  
+	}
+
+
+https://library.iliauni.edu.ge/wp-content/uploads/2017/03/SHTA-7-2019-book-1.pdf
+
+
+# ტექსტის კოპირება და ისე გაკეთებაც სცადე
